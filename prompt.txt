@@ -1,7 +1,7 @@
-ayudame a crear este nuevo angular project en C:\Users\jseas\Documents\GitHub\casa19 para el front
+ayudame a crear este nuevo angular 22 project en C:\Users\jseas\Documents\GitHub\casa19 para el front
 C:\Users\jseas\Documents\GitHub\casa19-b para el backend 
 la idea de este projecto angular en su ultima version es integrar inicialmente un componente lobby 
 que sea drag an drop con tarjetas que indican el nombre del projecto. 
-la session debe ser persistente con posgresql. 
+la session debe ser persistente con "PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35213, 64-bit". 
 antes de empezar dame un plan de implementacion.
 que me recomiendas para el backend strapi?
