@@ -6,3 +6,4 @@ alrededor de la estructura debe haber paneles de vidrio para separalo del exteri
 te ajunto imagenes para que generes.
 las paredes de vidrio van desde el suelo al cielo de la tablilla que sera reemplazado por cielo de gympun
 conservando el spot central.  
+guarda las imagenes en C:\Users\jseas\Documents\GitHub\casa19\docs\walking-closet
