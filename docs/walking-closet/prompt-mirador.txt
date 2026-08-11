@@ -3,7 +3,7 @@ fijate en el croquis
 quiero que las barandas sean eliminadas y crees la estructura representada en el croquis
 y tambien debes eliminar la puerta corrediza de metal.
 alrededor de la estructura debe haber paneles de vidrio para separalo del exterior y contemplar la vista.
-usa literlmente la imagen casa19\docs\walking-closet\c2.jpg
+usa literlmente la imagen casa19\docs\walking-closet\c2.jpg y no modifiques sus proporciones.
 las paredes de vidrio van desde el suelo al cielo de la tablilla que sera reemplazado por cielo de gympun
 conservando el spot central.  
 debes conservar las proporciones de la imagen completamente
