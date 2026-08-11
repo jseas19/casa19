@@ -1,0 +1,173 @@
+<div class="lobby-container">
+  <!-- Top Navigation Header -->
+  <header class="lobby-header">
+    <div class="header-brand">
+      <div class="logo-icon">
+        <span class="symbol">📐</span>
+      </div>
+      <div>
+        <h1 class="title">CASA19 — Project Lobby</h1>
+        <p class="subtitle">Lobby interactivo Drag & Drop en Angular 19</p>
+      </div>
+    </div>
+
+    <!-- Search & Filter Controls -->
+    <div class="header-actions">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input 
+          type="text" 
+          placeholder="Buscar proyectos..." 
+          [ngModel]="searchQuery()" 
+          (ngModelChange)="searchQuery.set($event)"
+        />
+      </div>
+
+      <button class="btn-primary" (click)="openCreateModal()">
+        <span>✨ Nuevo Proyecto</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Status Bar / Session Banner -->
+  <section class="session-bar">
+    <div class="session-info">
+      <span class="status-indicator online"></span>
+      <span class="session-label">Sesión Persistente:</span>
+      <strong class="user-name">{{ authService.userSessionSignal()?.username }}</strong>
+      <span class="db-badge">🗄️ {{ authService.userSessionSignal()?.dbServer }}</span>
+    </div>
+
+    <div class="backend-status" [class.connected]="projectService.isBackendConnected()">
+      <span class="pulse-dot"></span>
+      <span>
+        Backend Strapi: {{ projectService.isBackendConnected() ? 'Conectado a PostgreSQL' : 'Modo Caché Local / Offline' }}
+      </span>
+    </div>
+  </section>
+
+  <!-- Drag & Drop Board -->
+  <main class="board-layout" cdkDropListGroup>
+    <div 
+      class="board-column" 
+      *ngFor="let col of columns()"
+    >
+      <div class="column-header">
+        <div class="column-title">
+          <span>{{ col.title }}</span>
+          <span class="count-badge" [style.backgroundColor]="col.badgeColor">
+            {{ col.projects.length }}
+          </span>
+        </div>
+      </div>
+
+      <div 
+        class="column-droplist"
+        [id]="col.id"
+        cdkDropList
+        [cdkDropListData]="col.projects"
+        [cdkDropListConnectedTo]="ConnectedListIds"
+        (cdkDropListDropped)="drop($event, col.id)"
+      >
+        <div 
+          class="project-card"
+          *ngFor="let project of col.projects"
+          cdkDrag
+          [cdkDragData]="project"
+        >
+          <!-- Card Custom Drag Handle & Border Accent -->
+          <div class="card-accent" [style.backgroundColor]="project.tagColor"></div>
+          
+          <div class="card-header">
+            <span class="category-chip">{{ project.category }}</span>
+            <button class="btn-delete" (click)="removeProject(project.id)" title="Eliminar proyecto">
+              🗑️
+            </button>
+          </div>
+
+          <h3 class="card-title">{{ project.title }}</h3>
+          <p class="card-desc">{{ project.description }}</p>
+
+          <div class="card-footer">
+            <span class="order-badge">#{{ project.order }}</span>
+            <span class="drag-handle" cdkDragHandle title="Arrastrar tarjeta">
+              ⠿
+            </span>
+          </div>
+
+          <!-- Drag Preview styling -->
+          <div *cdkDragPreview class="project-card drag-preview">
+            <div class="card-accent" [style.backgroundColor]="project.tagColor"></div>
+            <h3 class="card-title">{{ project.title }}</h3>
+            <span class="category-chip">{{ project.category }}</span>
+          </div>
+
+          <!-- Drag Placeholder -->
+          <div *cdkDragPlaceholder class="card-placeholder"></div>
+        </div>
+
+        <div class="empty-column-state" *ngIf="col.projects.length === 0">
+          <span>Arrastra una tarjeta aquí</span>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Create Project Modal -->
+  <div class="modal-backdrop" *ngIf="showCreateModal()">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>Crear Nuevo Proyecto</h2>
+        <button class="btn-close" (click)="closeCreateModal()">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="form-group">
+          <label>Nombre del Proyecto *</label>
+          <input type="text" [(ngModel)]="newProjectTitle" placeholder="Ej. Portal Cliente Casa19" />
+        </div>
+
+        <div class="form-group">
+          <label>Descripción</label>
+          <textarea [(ngModel)]="newProjectDesc" rows="3" placeholder="Resumen del objetivo y alcance del proyecto..."></textarea>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Categoría</label>
+            <select [(ngModel)]="newProjectCategory">
+              <option value="Angular / Front">Angular / Front</option>
+              <option value="Node.js / Backend">Node.js / Backend</option>
+              <option value="Seguridad">Seguridad</option>
+              <option value="UI / UX Design">UI / UX Design</option>
+              <option value="Base de Datos">Base de Datos</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Estado Inicial</label>
+            <select [(ngModel)]="newProjectStatus">
+              <option value="backlog">📋 Backlog</option>
+              <option value="in_progress">🚀 En Desarrollo</option>
+              <option value="review">🔍 En Revisión</option>
+              <option value="done">✅ Completado</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Color de Etiqueta</label>
+          <div class="color-picker-row">
+            <input type="color" [(ngModel)]="newProjectColor" />
+            <span [style.color]="newProjectColor">Muestra del color seleccionado</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn-secondary" (click)="closeCreateModal()">Cancelar</button>
+        <button class="btn-primary" (click)="submitNewProject()">Guardar Proyecto</button>
+      </div>
+    </div>
+  </div>
+</div>
