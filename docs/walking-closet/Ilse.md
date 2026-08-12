@@ -7,7 +7,7 @@
 | Día | Hora Salida Colegio | Actividades y Horarios | Retorno a Casa |
 | :--- | :---: | :--- | :---: |
 | **Lunes** | 3:30 PM | 🏋️ Gimnasio<br>🏢 Yiyis | 8:00 PM |
-| **Martes** | 3:30 PM | 🧘 Pilates (4:30 PM - 5:30 PM) | 6:30 PM |
+| **Martes** | 3:30 PM | 🧘 Pilates (4:30 PM - 5:30 PM) | 6:00 PM |
 | **Miércoles** | 3:30 PM | ☕ Café papas<br>🏢 Yiyis (4:30 PM - 5:00 PM) | 8:00 PM |   
 | **Jueves** | 3:30 PM | 🏋️ Gimnasio | 5:30 PM |
 | **Viernes** | 3:30 PM | ☕ Café papas<br>🏢 Yiyis (4:30 PM - 5:00 PM) | 8:00 PM |   
