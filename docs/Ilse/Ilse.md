@@ -11,7 +11,7 @@
 | **Miércoles** | 3:30 PM | ☕ Café papas<br>🏢 Yiyis (4:30 PM - 5:00 PM) | 8:00 PM |   
 | **Jueves** | 3:30 PM | 🏋️ Gimnasio | 5:30 PM |
 | **Viernes** | 3:30 PM | ☕ Café papas<br>🏢 Yiyis (4:30 PM - 5:00 PM) | 8:00 PM |   
-| **Sábado** | - | 🏋️ Gimnasio (8:00 AM)<br>🏢 Yiyis (Tarde 3:00 PM) | - |
+| **Sábado** | - | 🏋️ Gimnasio (8:00 AM)<br>🏢 Yiyis (2:00 PM - 3:00 PM)<br>☕ Café papas (4:00 PM - 5:00 PM)<br>🏢 Yiyis (regreso tras café) | 8:00 PM |
 
 ---
 
@@ -19,8 +19,8 @@
 
 - 🏋️ **Gimnasio:** Lunes (4-5 PM / 4:30-5:30 PM), Jueves (después de 3:30 PM), Sábado (8:00 AM).
 - 🧘 **Pilates:** Martes (4:30 PM - 5:30 PM).
-- 🏢 **Yiyis:** Lunes, Miércoles (4:30 PM - 5:00 PM), Viernes (4:30 PM - 5:00 PM) y Sábado (3:00 PM).
-- ☕ **Café papas:** Miércoles y Viernes (después de 3:30 PM).
+- 🏢 **Yiyis:** Lunes, Miércoles (4:30 PM - 5:00 PM), Viernes (4:30 PM - 5:00 PM) y Sábado (2:00 PM - 3:00 PM y luego de Café papas).
+- ☕ **Café papas:** Miércoles y Viernes (después de 3:30 PM), Sábado (4:00 PM - 5:00 PM).
 - 💆 **Limpiezas Faciales:** Cada 15 días a partir del Sábado 22 en Paseo de las Flores.
 
 ---
