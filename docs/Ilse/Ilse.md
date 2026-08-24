@@ -38,3 +38,9 @@
 | Frecuencia | Tratamiento | Lugar |
 | :--- | :--- | :--- |
 | **Cada 15 días** *(A partir del Sábado 22)* | 💆 Limpiezas faciales | 📍 Paseo de las Flores |
+
+---
+
+### 💇 Cuidado Personal
+
+- **Lavado de cabello:** Dos veces a la semana, usualmente domingo y jueves.
