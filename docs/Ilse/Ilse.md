@@ -44,3 +44,9 @@
 ### 💇 Cuidado Personal
 
 - **Lavado de cabello:** Dos veces a la semana, usualmente domingo y jueves.
+
+---
+
+### 🍽️ Horario de Almuerzo
+
+- Las horas de almuerzo pueden ser de 12:10 PM a 12:50 PM o de 12:50 PM a 1:30 PM.
