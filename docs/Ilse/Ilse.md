@@ -55,8 +55,23 @@
 
 ### 💄 Labiales
 
-| # | Marca / Producto | Tono |
-| :---: | :--- | :--- |
-| **1** | **Make Up For Ever** – Rouge Artist For Ever | 164 Sassy Rhubarb |
-| **2** | **M·A·C Cosmetics** – Lustreglass Lipstick | 524 Syrup |
-| **3** | **OG (Outdoor Girl)** – True Nude | T09 |
+| # | Marca / Producto | Tono | Dónde Comprar |
+| :---: | :--- | :--- | :--- |
+| **1** | **Make Up For Ever** – Rouge Artist For Ever | 164 Sassy Rhubarb | Sephora (sephora.com), makeupforever.com, Macy's, Nordstrom |
+| **2** | **M·A·C Cosmetics** – Lustreglass Lipstick | 524 Syrup | Tiendas M·A·C, maccosmetics.com, Ulta Beauty, Macy's, Nordstrom, Bloomingdale's, Dillard's |
+| **3** | **OG (Outdoor Girl)** – True Nude | T09 | Amazon EE. UU., minoristas independientes en línea |
+
+#### 🛒 Detalle de Puntos de Venta
+
+- **Labial 1: Make Up For Ever – Rouge Artist For Ever** (*Tono: 164 Sassy Rhubarb*)
+  - **Sephora:** Tiendas físicas y sitio web (sephora.com) (distribuidor principal en EE. UU.).
+  - **Sitio oficial:** makeupforever.com
+  - **Tiendas por departamento:** Macy's o Nordstrom.
+
+- **Labial 2: M·A·C Cosmetics – Lustreglass Lipstick** (*Tono: 524 Syrup*)
+  - **Tiendas M·A·C y sitio oficial:** maccosmetics.com
+  - **Ulta Beauty:** Tiendas físicas y en línea.
+  - **Tiendas por departamento:** Macy's, Nordstrom, Bloomingdale's y Dillard's.
+
+- **Labial 3: OG (Outdoor Girl) – True Nude** (*Tono: T09*)
+  - **Amazon EE. UU.:** Es la forma más directa de conseguirlo dentro de Estados Unidos, ya que Outdoor Girl (OG) suele ser una marca más distribuida internacionalmente o a través de minoristas independientes y plataformas de belleza en línea especializadas.
