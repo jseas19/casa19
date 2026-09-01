@@ -50,3 +50,13 @@
 ### 🍽️ Horario de Almuerzo
 
 - Las horas de almuerzo pueden ser de 12:10 PM a 12:50 PM o de 12:50 PM a 1:30 PM.
+
+---
+
+### 💄 Labiales
+
+| # | Marca / Producto | Tono |
+| :---: | :--- | :--- |
+| **1** | **Make Up For Ever** – Rouge Artist For Ever | 164 Sassy Rhubarb |
+| **2** | **M·A·C Cosmetics** – Lustreglass Lipstick | 524 Syrup |
+| **3** | **OG (Outdoor Girl)** – True Nude | T09 |
