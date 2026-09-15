@@ -58,6 +58,17 @@
 
 ---
 
+### 🩸 Salud y Antecedentes: Talasemia e Ictericia
+
+- **Talasemia:** Condición hereditaria de la sangre que se caracteriza por una menor producción de hemoglobina y glóbulos rojos saludables.
+- **Ictericia (Antecedente):** Solo se presentó durante la etapa de bebé (ictericia neonatal); actualmente no la padece.
+- **Consideraciones clave:**
+  - Control médico y seguimiento regular de hemograma para la talasemia.
+  - Evitar suplementos de hierro u otros tratamientos sin indicación médica.
+  - Mantener adecuada hidratación y descanso.
+
+---
+
 ### 💄 Labiales
 
 | # | Marca / Producto | Tono | Dónde Comprar |
