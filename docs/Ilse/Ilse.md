@@ -48,6 +48,7 @@
 
 - **Lavado de cabello:** Dos veces a la semana, usualmente domingo y jueves.
 - **Renoderm:** Para la piel.
+  - [Ver imagen](images/renoderm.jpg)
 - **Vitamina D:** Suplemento que consume.
 
 ---
@@ -76,6 +77,7 @@
 | **1** | **Make Up For Ever** – Rouge Artist For Ever | 164 Sassy Rhubarb | Sephora (sephora.com), makeupforever.com, Macy's, Nordstrom |
 | **2** | **M·A·C Cosmetics** – Lustreglass Lipstick | 524 Syrup | Tiendas M·A·C, maccosmetics.com, Ulta Beauty, Macy's, Nordstrom, Bloomingdale's, Dillard's |
 | **3** | **OG (Outdoor Girl)** – True Nude | T09 | Amazon EE. UU., minoristas independientes en línea |
+| **4** | **Benefit Cosmetics** – BADgal BOUNCE | - | Sephora, Ulta Beauty, benefitcosmetics.com, Macy's |
 
 #### 🛒 Detalle de Puntos de Venta
 
@@ -91,3 +93,10 @@
 
 - **Labial 3: OG (Outdoor Girl) – True Nude** (*Tono: T09*)
   - **Amazon EE. UU.:** Es la forma más directa de conseguirlo dentro de Estados Unidos, ya que Outdoor Girl (OG) suele ser una marca más distribuida internacionalmente o a través de minoristas independientes y plataformas de belleza en línea especializadas.
+
+- **Labial 4: Benefit Cosmetics – BADgal BOUNCE**
+  - [Ver imagen](images/benefit-bounce.jpg)
+  - **Sephora:** Tiendas físicas y sitio web (sephora.com).
+  - **Sitio oficial:** benefitcosmetics.com
+  - **Ulta Beauty:** Tiendas físicas y en línea.
+  - **Tiendas por departamento:** Macy's, Nordstrom.
