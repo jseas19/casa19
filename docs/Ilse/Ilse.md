@@ -44,6 +44,8 @@
 ### 💇 Cuidado Personal
 
 - **Lavado de cabello:** Dos veces a la semana, usualmente domingo y jueves.
+- **Renoderm:** Para la piel.
+- **Vitamina D:** Suplemento que consume.
 
 ---
 
