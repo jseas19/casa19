@@ -32,6 +32,9 @@
 | **Enero** | 🩺 Mamografía<br>🦷 Limpieza dental<br>👁️ Examen de la vista<br>🩺 Dermatóloga |
 | **Julio** | 👩‍⚕️ Ginecóloga |
 | **Octubre – Diciembre** | 🩺 Dermatóloga (Octubre, Noviembre, Diciembre) |
+| **Por definir** | 🩺 Endocrinólogo *(Pendiente)* |
+
+> ⚠️ **Nota:** La cita con el endocrinólogo está pendiente.
 
 ### 💆 Tratamientos Estéticos
 
