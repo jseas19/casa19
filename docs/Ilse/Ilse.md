@@ -38,9 +38,24 @@
 
 ### 💆 Tratamientos Estéticos
 
-| Frecuencia | Tratamiento | Lugar |
+| Frecuencia | Tratamiento | Lugar / Detalle |
 | :--- | :--- | :--- |
 | **Cada 15 días** *(A partir del Sábado 22)* | 💆 Limpiezas faciales | 📍 Paseo de las Flores |
+| **Por sesión** *(Sujeto a valoración)* | ✨ Fotona Skin Resurfacing | 👩‍⚕️ Dra. (Valoración previa) |
+
+#### ✨ Fotona Skin Resurfacing
+Tratamiento láser enfocado en renovar y mejorar la calidad de la piel, favoreciendo una apariencia más uniforme, luminosa y rejuvenecida. ✨🌿
+
+- **Ayuda a:**
+  - ✨ Mejorar la textura y luminosidad de la piel
+  - ✨ Suavizar líneas finas
+  - ✨ Mejorar la apariencia de poros y pequeñas imperfecciones
+  - ✨ Estimular la producción natural de colágeno
+- **Costos:**
+  - 💰 **Valor especial:** $150 por sesión
+  - 💎 **Inversión regular:** $200 por sesión
+- **Nota médica:** La Dra. valorará tu piel para determinar si este tratamiento es el más adecuado para lo que querés mejorar. 👩‍⚕️
+- [Ver imagen informativa](images/fotona-skin-resurfacing.png)
 
 ---
 
