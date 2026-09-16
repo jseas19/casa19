@@ -9,7 +9,7 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 ### ✨ Actualización de Tratamientos Estéticos
 
 #### ✨ Agregado
-- **Tratamientos Estéticos:** Incorporada la información del tratamiento láser **Fotona Skin Resurfacing** (beneficios, costos especial y regular, valoración médica previa y referencia de imagen) en [docs/Ilse/Ilse.md](docs/Ilse/Ilse.md).
+- **Tratamientos Estéticos:** Incorporada la información del tratamiento láser **Fotona Skin Resurfacing** (beneficios, costos especial y regular, y valoración médica previa) en [docs/Ilse/Ilse.md](docs/Ilse/Ilse.md).
 
 ---
 

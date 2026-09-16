@@ -55,7 +55,6 @@ Tratamiento láser enfocado en renovar y mejorar la calidad de la piel, favoreci
   - 💰 **Valor especial:** $150 por sesión
   - 💎 **Inversión regular:** $200 por sesión
 - **Nota médica:** La Dra. valorará tu piel para determinar si este tratamiento es el más adecuado para lo que querés mejorar. 👩‍⚕️
-- [Ver imagen informativa](images/fotona-skin-resurfacing.png)
 
 ---
 
